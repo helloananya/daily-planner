@@ -37,13 +37,10 @@ Designed with love and aesthetic balance — available in **two styles**:
 
 **Ananya L** • TY BSc CS Student  
 Frontend & Creative UI Enthusiast 🌷  
-[GitHub Profile](https://github.com/your-username) <!-- Replace with your actual GitHub URL -->
-
+[GitHub Profile]([https://github.com/helloananya]
 To switch styles, just edit this line in `index.html`:
 
 ```html
 <link rel="stylesheet" href="style-soft.css" />
-
-
 
 <link rel="stylesheet" href="style-tomboy.css" />
